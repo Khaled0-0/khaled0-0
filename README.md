@@ -47,7 +47,7 @@ I'm a dedicated Front-End Developer with experience starting from 2023, focused 
 
 ## 📈 GitHub Stats
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled0-0&show_icons=true&theme=radical)
+![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled0-0&show_icons=true&theme=radica)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled0-0&layout=compact&theme=radical)
 
@@ -55,7 +55,7 @@ I'm a dedicated Front-End Developer with experience starting from 2023, focused 
 
 ## 📫 Connect with Me
 
-- 🌍 Portfolio: [portfolio-nine-gamma-94.vercel.app](https://portfolio-nine-gamma-94.vercel.app)
+- 🌍 Portfolio: [https://portfolio-five-sigma-8azrkl4jet.vercel.app/)
 - 📧 Email: khaledmaster999@gmail.com
 - 🐙 GitHub: [github.com/Khaled0-0](https://github.com/Khaled0-0)
 

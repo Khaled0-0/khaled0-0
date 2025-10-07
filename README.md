@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khaled
 
-I'm a dedicated **Front-End Developer** with 2+ years of experience building elegant, accessible, and performance-optimized web applications. I specialize in **React.js**, **Next.js**, and **Tailwind CSS**, and I enjoy translating creative ideas into beautiful, functional code.
+I'm a dedicated Front-End Developer with experience starting from 2023, focused on building elegant, accessible, and performance-optimized web applications. I specialize in React.js, Next.js, TypeScript, and Tailwind CSS, and I enjoy translating creative ideas into beautiful, functional code.
 
 ---
 

@@ -1,64 +1,65 @@
-# 👋 Hi, I'm Khaled
+# Hi, I'm Khaled Nasser
 
-I'm a dedicated Front-End Developer with experience starting from 2023, focused on building elegant, accessible, and performance-optimized web applications. I specialize in React.js, Next.js, TypeScript, and Tailwind CSS, and I enjoy translating creative ideas into beautiful, functional code.
+**Full-Stack / Product Engineer** · TypeScript · Next.js · Prisma · PostgreSQL
 
----
+I build production web apps end to end, from the database schema and API to the UI people use every day. I work at [Observer Studio](https://observer.studio), a product studio, where I ship features for client platforms in finance, advertising and SaaS.
 
-## 🚀 About Me
-
-- 🎯 I focus on building scalable front-end systems using modern frameworks and tools.
-- 💡 Passionate about clean code, intuitive UX/UI, and continuous learning.
-- 🧠 Currently learning: **Full-stack development**, **PostgreSQL**, and **AI-powered web applications**.
-- 📚 I also work with **TypeScript**, **Redux Toolkit**, **Zustand**, **NextAuth.js**, and **Framer Motion**.
-- 🔐 Skilled in building secure authentication flows using OAuth and custom credentials.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white)](https://portfolio-five-sigma-8azrkl4jet.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-nasser-6a8524331)
+[![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:khaledmaster999@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## At Observer Studio (Oct 2025 – present)
 
-**Languages:**  
-`JavaScript (ES6+)` · `TypeScript` · `HTML5` · `CSS3`  
+**450+ pull requests, 420+ merged** across six production products. Most of this work is in private client repositories, so it doesn't show up on my public graph.
 
-**Frameworks & Libraries:**  
-`React.js` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Redux Toolkit` · `Zustand`  
+**Arabic-first finance & inventory platform** · Next.js, Prisma, PostgreSQL
+- Built the trader settlement flow: draft, send for approval, then post the whole batch atomically (all or nothing), with reversals.
+- Deposit and rent-advance payouts, ledger entries with reversals, and server-side totals that follow the active filters.
+- Approval rules (approver ≠ requester), and reads scoped to the user's role and warehouse.
+- Transactions and accounts screens with filters, sorting and Excel export; full RTL Arabic UI.
+- Fixed flaky integration tests and out-of-memory production builds.
 
-**Authentication:**  
-`NextAuth.js (v5)` · `Google/GitHub OAuth` · `Credential Login` · `Email Verification`  
+**Out-of-home advertising marketplace** · Next.js, tRPC, Prisma
+- Inventory management, package billing anchors (monthly and weekly), campaigns and availability.
+- KYC verification admin queue, org invites and first-login onboarding.
 
-**Tools & Platforms:**  
-`Git & GitHub` · `VS Code` · `Figma` · `Postman` · `Vercel`  
+**Creative-operations SaaS for studios** · Next.js, Clerk, Inngest
+- Role-based navigation on top of RBAC; invites for clients and freelancers without extra org seats.
+- Background import of projects and tracked time from ClickUp.
 
-**API & Database:**  
-`REST APIs` · `Axios` · `face-api.js` · `TensorFlow.js` · `PostgreSQL` (learning)
+**Design-discovery platform and marketing sites** · Next.js, Tailwind
+- Collections, save flows and Figma-accurate product cards.
+- Real-estate masterplans with a payment calculator, and a luxury-yacht site with SEO.
 
----
-
-## 🧪 Featured Projects
-
-- 🔍 **Facial Recognition App** – Live face detection using BlazeFace and emotion recognition using face-api.js with a clean UI in React.
-- 💰 **Finance Dashboard** – Modern dashboard with analytics, charts, responsive design, and dark mode using Next.js and Tailwind.
-- 📦 **E-commerce Platform** – Full shopping cart system with auth, protected routes, and Stripe integration (WIP).
-- 📝 **Blog with CMS** – Built with Strapi, Next.js, and Markdown rendering.
-- 🛒 **Food List App** – Interactive food selector with full cart logic: select, delete, count items, checklist view, and more (React + Context).
-- 📆 **Age Calculator** – App to calculate age based on birth date input with beautiful UI and validations.
-- 🌤️ **Weather App** – Displays current weather for any city in the world using live weather API.
+**How I work:** issue first, one PR per change, every PR reviewed against a written checklist before it merges. I work daily with AI coding agents (Claude Code) inside that review process.
 
 ---
 
-## 📈 GitHub Stats
+## Tech stack
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled0-0&show_icons=true&theme=radica)
+| Area | Tools |
+|---|---|
+| Languages | TypeScript, JavaScript, SQL, HTML, CSS |
+| Frontend | React, Next.js (App Router), Tailwind CSS, Framer Motion, Redux Toolkit, Zustand |
+| Backend | Next.js server actions & route handlers, tRPC, REST, Prisma, PostgreSQL |
+| Auth | Clerk, NextAuth.js, OAuth, RBAC |
+| Infra & tools | Vercel, Inngest, Git & GitHub, Figma, Postman |
+| AI | Claude Code, face-api.js, TensorFlow.js |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled0-0&layout=compact&theme=radical)
+---
+
+## Personal projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Portfolio](https://github.com/Khaled0-0/Portfolio) | My portfolio site, with dark/light mode and animations | Next.js, TypeScript, Tailwind, Framer Motion |
+| [Facial Recognition](https://github.com/Khaled0-0/Facial-Recognition-Web-App) | Live face detection and emotion recognition from the webcam, in the browser | React, TypeScript, face-api.js, Redux Toolkit |
+| [Admin Dashboard](https://github.com/Khaled0-0/AI-content-dashboard) | Admin dashboard with orders, customers, charts, calendar, kanban and theme settings | React, Syncfusion, Tailwind |
+| [E-commerce](https://github.com/Khaled0-0/E-commerce) | Storefront with collection, search, product, cart, checkout and orders pages | React, Vite, React Router |
+| [Extension Manager](https://github.com/Khaled0-0/Extension-Manager) | Browser-extensions manager with filters and dark/light theme | Next.js, TypeScript, Tailwind |
 
 ---
 
-## 📫 Connect with Me
-
-- 🌍 Portfolio: [https://portfolio-five-sigma-8azrkl4jet.vercel.app/)
-- 📧 Email: khaledmaster999@gmail.com
-- 🐙 GitHub: [github.com/Khaled0-0](https://github.com/Khaled0-0)
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
+📍 Egypt · Open to remote roles and relocation (Europe, North America, Middle East, Australia)

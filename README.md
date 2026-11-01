@@ -55,8 +55,7 @@ I build production web apps end to end, from the database schema and API to the 
 | Project | What it is | Stack |
 |---|---|---|
 | [Portfolio](https://github.com/Khaled0-0/Portfolio) | My portfolio site, with dark/light mode and animations | Next.js, TypeScript, Tailwind, Framer Motion |
-| [Facial Recognition](https://github.com/Khaled0-0/Facial-Recognition-Web-App) | Live face detection and emotion recognition from the webcam, in the browser | React, TypeScript, face-api.js, Redux Toolkit |
-| [Admin Dashboard](https://github.com/Khaled0-0/AI-content-dashboard) | Admin dashboard with orders, customers, charts, calendar, kanban and theme settings | React, Syncfusion, Tailwind |
+| [Facial Recognition](https://github.com/Khaled0-0/Facial-Recognition-Web-App) | Detects faces in a webcam capture and estimates age, gender and expression, all in the browser | React, TypeScript, face-api.js |
 | [E-commerce](https://github.com/Khaled0-0/E-commerce) | Storefront with collection, search, product, cart, checkout and orders pages | React, Vite, React Router |
 | [Extension Manager](https://github.com/Khaled0-0/Extension-Manager) | Browser-extensions manager with filters and dark/light theme | Next.js, TypeScript, Tailwind |
 

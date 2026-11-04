@@ -5,7 +5,7 @@
 I build production web apps end to end, from the database schema and API to the UI people use every day. I work at [Observer Studio](https://observer.studio), a product studio, where I ship features for client platforms in finance, advertising and SaaS.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white)](https://portfolio-five-sigma-8azrkl4jet.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-nasser-6a8524331)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-nasser-dev)
 [![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:khaledmaster999@gmail.com)
 
 ---
